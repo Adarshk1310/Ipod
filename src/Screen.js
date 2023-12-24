@@ -55,6 +55,7 @@ padding:0px;
 margin:0px; 
 `
 
+//handling Ipod Screen
 
 
 const Screen=(props)=>{
